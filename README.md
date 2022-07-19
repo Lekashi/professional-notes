@@ -24,6 +24,7 @@ If you would like to download the repository you must download the node packages
 - Heroku app: https://secure-fortress-34068.herokuapp.com/
 ***
 ## Screenshots
+
 ![Screenshot of the website](.\public\assets\imgs\mainpagescrnsht.png)
 
 ![Screenshot of the website](.\public\assets\imgs\notesscrnsht.png)
