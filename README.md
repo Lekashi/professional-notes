@@ -25,6 +25,6 @@ If you would like to download the repository you must download the node packages
 ***
 ## Screenshots
 
-![Screenshot of the website](.\public\assets\imgs\mainpagescrnsht.png)
+![Screenshot of the website](./public/assets/imgs/mainpagescrnsht.png)
 
-![Screenshot of the website](.\public\assets\imgs\notesscrnsht.png)
+![Screenshot of the website](./public/assets/imgs/notesscrnsht.png)
